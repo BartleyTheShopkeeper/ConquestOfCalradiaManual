@@ -1,8 +1,4 @@
 ---
-title: Conquest of Calradia
-subtitle: Comprehensive Game Manual
-author: Bartley#3992
-date: 2022-12-16
 geometry: letterpaper,margin=2.54cm
 indent: true
 linestretch: 1.15
@@ -12,6 +8,16 @@ colorlinks: true
 toc: true
 toc-depth: 1
 ...
+
+<style>
+h1, h2 {
+  text-align:center
+}
+</style>
+
+# Conquest of Calradia
+
+<figure>![](d9dm9v9-c044b847-0079-4399-ae09-ee11ea1c17ac.png)</figure>
 
 # Overview
 
@@ -34,7 +40,7 @@ In Calradia there are six major cultures, all of which are featured in game and 
 - **Vaegir.** The Vaegirs possess arguably the finest foot archers in Calradia, and also have several tiers of reasonably good infantry and heavy cavalry. Vaegir troops prefer using two-handed weapons for an offensive advantage against their foes, and live in the mountainous and snowy north-eastern boundaries of the continent.
 - **Sarranid.** The Sarranid territory is mostly open desert, making battles very favorable for cavalry and archers. Unlike the Khergits, their cavalry are melee only and have no bows, making them less versatile. However, their Mamlukes are some of the strongest in Calradia, rivaling Swadian knights. 
 
-![](Culture Map@0.75x.webp)
+![](maps_culture.webp)
 
 # Politics
 
