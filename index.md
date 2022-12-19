@@ -51,7 +51,30 @@ Although a faction can choose to dismiss a lord or otherwise strip him of any te
 
 Lords are multifaceted and have many different demands. In many cases, they will actually declare their complaints so that they be solved sooner.
 
-## Loyalty
+## Lord Traits
+
+All lords have a trait that makes them unique. They are as follows:
+
+- **Administrator.** A skilled administrator is able to manage his holdings more efficiently. This lord's villages gain a 15% adjacency bonus instead of a 10% bonus.
+- **Architect.** An architect sees ways to reduce the costs of public works. Village buildings and productive enterprises are half price in territories held by this lord.
+- **Besieged.** A lord who has faced an extended siege knows how to defend his keep. The ranged damage of this lord's army is increased by +30% in defensive sieges.
+- **Beserker.** A lord who participates in ancestral beserker traditions. Offensive infantry in this lord's command have -30% armor, but +40% damage. The beserker trait is unique to Nord lords.
+- **Boastful.** A boastful lord lives to see his armies victorious. After victory in battle, a boastful lord gains more loyalty than others. (+20 loyalty)
+- **Conqueror.** A conqueror has laid many famous sieges. Excluding any mounted units, his armies receives a +10% damage bonus in offensive sieges.
+- **Crusader.** A crusader knows the weakness of his own position, and the importance of taking the fight to his enemies. When outside of Swadian territory, the terrain bonus of this lord's cavalry is increased by +30%. Additionally, crusader lords face only half loyalty penalty for being outside of their culture. A crusader trait is unique to Swadian lords.
+- **Dignified.** A dignified lord enjoys the finer things in life. Manors are +50% more effective in territories held by this lord.
+- **Entrenched.** Defense is second nature to this lord. This lord's ranged units have a +10% armor boost and an increased ranged damage of +30% in defensive sieges. An entrenched trait is unique to Rhodok lords.
+- **Glutinous.** 24 hours in a day. 24 courses in a feast. Coincidence?  A glutinous lord gains additional loyalty from feasting. (20 loyalty)
+- **Loyal.** A loyal lord does not fret in times of trouble and trusts his liege more than others. This lord receives a moderate loyalty bonus. (20 loyalty)
+- **Eastern merchant.** The spice must flow. Eastern merchants receive twice as many spices in their villages. An eastern merchant trait is unique to Sarranid lords.
+- **Merchant.** Whether by trade or marriage to a wealthy merchant's daughter, a merchant lord knows the ways of the market. For every merchant lord, a faction has one extra caravan.
+- **Pillager.** A pillager hopes to see his enemies' villages burn. Armies under this lord's command gain a +10% damage bonus when attacking a village.
+- **Rabble-rouser.** A rabble-rousing lord knows how to motivate the unwashed masses. All parts of this lord's army below the level of 10 will receive a +25% damage bonus. 
+- **Selfless.** A selfless lord is not as envious of the holdings of other lords, and does not shy away from commanding a large army. Fief ownership is of halved importance to this lord, and he will be more loyal when commanding an army.
+- **Warlord.** A warlord is a ravager of the steppes. A warlord's mounted units receive a +30% higher ranged damage when in an open battle in Khergit land. Outside of Khergit land, this bonus is reduced to 10%. A warlord trait is unique to the Khergit lords.
+- **Wealthy.** Born to immense wealth, this lord grants an additional turn income of 500 denars.
+
+## Lord Loyalty
 
 All lords have a loyalty score. Loyalty is representative of how pleased a lord is with the current state of affairs. When loyalty is below 100, it affects the upkeep of armies under a lord's command. For however much below 100 a lord's loyalty is, his army will have to pay that much more upkeep. For example, a lord having 30 loyalty will result in his army costing 70% more.
 
