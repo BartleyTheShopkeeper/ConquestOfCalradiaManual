@@ -1,4 +1,5 @@
 ---
+title: Conquest of Calradia
 geometry: letterpaper,margin=2.54cm
 indent: true
 linestretch: 1.15
@@ -10,16 +11,14 @@ toc-depth: 1
 ...
 
 <style>
-h1, h2 {
+h1, figure {
   text-align:center
 }
 </style>
 
-# Conquest of Calradia
+# Overview
 
 <figure>![](d9dm9v9-c044b847-0079-4399-ae09-ee11ea1c17ac.png)</figure>
-
-# Overview
 
 _Conquest of Calradia_ is a map based game set in the fictional world of [_Mount & Blade: Warband_](https://store.steampowered.com/app/48700/Mount__Blade_Warband/) known as Calradia. Players begin the game as rulers of factions in Calradia, and will hereafter often be referred to as factions.
 
@@ -40,9 +39,11 @@ In Calradia there are six major cultures, all of which are featured in game and 
 - **Vaegir.** The Vaegirs possess arguably the finest foot archers in Calradia, and also have several tiers of reasonably good infantry and heavy cavalry. Vaegir troops prefer using two-handed weapons for an offensive advantage against their foes, and live in the mountainous and snowy north-eastern boundaries of the continent.
 - **Sarranid.** The Sarranid territory is mostly open desert, making battles very favorable for cavalry and archers. Unlike the Khergits, their cavalry are melee only and have no bows, making them less versatile. However, their Mamlukes are some of the strongest in Calradia, rivaling Swadian knights. 
 
-![](maps_culture.webp)
+![](map_culture.webp)
 
 # Politics
+
+![](art_politics.webp)
 
 Every town and castle in Calradia begins owned by a lord. When a faction takes control of a town or castle, they have the option to recruit that lord. A faction may declare a different lord to take possession of newly claimed territories, but otherwise it will be rewarded to whichever lord considers it home.
 
@@ -77,7 +78,13 @@ In order to improve loyalty temporarily, feasts may be thrown in any town with t
 
 Feasts may include lords from other factions, and all lords will count towards the loyalty bonus. Every faction must pay 5,000 denars for each of its own lords in a feast.
 
+# Military
+
+![](art_military.webp)
+
 # Economics
+
+![](art_economics.webp)
 
 The economic system of _Conquest of Calradia_ is the most complex part of the game system. The system relies on a relationship between villages, castles, and towns. Between these, goods are produced, improved, and transformed. In the end, all goods are turned into turn income.
 
